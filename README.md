@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there! 👋  
 
-<!--
-**RiveraAngeldev/RiveraAngeldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Angel Rivera**, a Computer Engineering student based in Puerto Rico 🇵🇷.
 
-Here are some ideas to get you started:
+I design and build whatever I can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I'll build it and ship it.
+
+My main tech stack for logic and systems is **C++ and Java**, while for the web, I focus on creating polished and high-quality **Frontend** interfaces. 
+
+I’m also expanding my horizons by studying **Artificial Intelligence with Python** to build smarter applications.
+
+I’m always open to collaborations on software engineering projects, game dev, AI experiments, or any crazy idea you might have.
+
+**Fun Facts:**
+
+* I have one cat 🐱
+* Coffee is my fuel ☕
+* Hunter x Hunter is my favorite anime
+* **Hobbies:** anime, gym, building things
