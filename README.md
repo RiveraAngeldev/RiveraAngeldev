@@ -1,6 +1,5 @@
 <div align="center">
 <h1 style="font-size: 2.5em;">Ángel Rivera</h1>
----
 
 Computer Engineering Student · Cybersecurity · Backend Development · Linux · C/C++ · Python
 </div>
