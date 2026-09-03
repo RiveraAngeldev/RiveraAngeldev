@@ -22,9 +22,6 @@ I learn primarily through hands-on work: building software, setting up labs, exp
 ### Projects & labs
 
 * **Personal Cybersecurity Lab** — A reproducible Debian environment configured for practicing network analysis, service hardening, and penetration testing methodologies.
-* **Secure Backend API** — A custom RESTful API built with Node.js/Go focused on identity management, standard authentication (JWT/OAuth2), rate limiting, and defensive data boundaries.
-* **Vulnerability Assessment & Exploit Lab** — Controlled testing environment designed to simulate OWASP Top 10 web vulnerabilities and implement code-level mitigations.
-* **System Monitoring & Packet Analyzer** — Low-level networking project built in C++/Python to inspect packet headers, monitor local traffic, and log anomalous network activity.
 
 ---
 
